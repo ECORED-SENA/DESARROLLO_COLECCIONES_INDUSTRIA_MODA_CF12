@@ -389,9 +389,61 @@ export default {
     contenidoInstruccional: [
       {
         nombre: 'Rafael Neftalí Lizcano Reyes',
-        cargo: 'Asesor metodológico y pedagógico',
+        cargo: 'Asesor pedagógico',
         centro:
-          'Centro Industrial del Diseño y la Manufactura Regional Santander',
+          'Centro Industrial del Diseño y la Manufactura - Regional Santander',
+      },
+      {
+        nombre: 'Ana Catalina Córdoba Sus',
+        cargo: 'Revisora Metodológica y Pedagógica',
+        centro:
+          'Centro para la Industria de la Comunicación Gráfica - Regional Distrito Capital',
+      },
+
+      {
+        nombre: 'Andrés Velandia',
+        cargo: 'Revisión pedagógica y metodológica',
+        centro: 'Regional y CF',
+      },
+
+      {
+        nombre: 'Fabián Leonardo Correa Díaz',
+        cargo: 'Diseñador Instruccional',
+        centro: 'Centro Agropecuario La Granja - Regional Tolima',
+      },
+      {
+        nombre: 'Fabio Andrés Gaviria Londoño',
+        cargo: 'Instructor',
+        centro:
+          'Centro de formación en diseño, confección y moda - Regional Antioquia',
+      },
+
+      {
+        nombre: 'Jhon Jairo Rodríguez Pérez',
+        cargo: 'Diseñador y evaluador instruccional',
+        centro:
+          'Centro para la Industria de la Comunicación Gráfica - Regional Distrito Capital',
+      },
+
+      {
+        nombre: 'Liliana Victoria Morales Gualdrón',
+        cargo: 'Diseñadora Instruccional',
+        centro:
+          'Centro para la Industria de la Comunicación Gráfica - Regional Distrito Capital',
+      },
+
+      {
+        nombre: 'Marisol Osorio',
+        cargo: 'Líder SENNOVA',
+        centro:
+          'Centro de formación en diseño, confección y moda - Regional Antioquia',
+      },
+
+      {
+        nombre: 'María Luisa Yepes',
+        cargo: 'Instructora',
+        centro:
+          'Centro de formación en diseño, confección y moda - Regional Antioquia',
       },
     ],
     desarrolloProducto: [
@@ -399,36 +451,71 @@ export default {
         nombre: 'Francisco José Lizcano Reyes',
         cargo: 'Responsable del equipo',
         centro:
-          'Centro Industrial del Diseño y la Manufactura Regional Santander',
+          'Centro Industrial del Diseño y la Manufactura - Regional Santander',
       },
       {
         nombre: 'Leyson Fabian Castaño Perez',
         cargo: 'Soporte organizacional',
-        centro: 'Centro de Comercio y Servicios Regional Tolima',
+        centro: 'Centro de Comercio y Servicios - Regional Tolima',
       },
       {
-        nombre: ['Nombre 1', 'Nombre 2'],
+        nombre: 'Marcela Gonzalez',
         cargo: 'Diseño web',
         centro:
-          'Centro Industrial del Diseño y la Manufactura Regional Santander',
+          'Centro Industrial del Diseño y la Manufactura - Regional Santander',
       },
       {
-        nombre: 'Nombre',
-        cargo: 'Desarrollo Front-End',
+        nombre: 'Andrés Mauricio Santaella ochoa',
+        cargo: 'Soporte front-end',
         centro:
-          'Centro Industrial del Diseño y la Manufactura Regional Santander',
+          'Centro Industrial del Diseño y la Manufactura - Regional Santander',
       },
       {
-        nombre: 'Nombre',
-        cargo: 'Producción audiovisual',
+        nombre: 'Jorge Leonardo Camacho Pardo',
+        cargo: 'Desarrollo front-end',
         centro:
-          'Centro Industrial del Diseño y la Manufactura Regional Santander',
+          'Centro Industrial del Diseño y la Manufactura - Regional Santander',
       },
+      // {
+      //   nombre: 'Adriana Marcela Suárez Eljure',
+      //   cargo: 'Producción audiovisual',
+      //   centro:
+      //     'Centro Industrial del Diseño y la Manufactura - Regional Santander',
+      // },
+      // {
+      //   nombre: 'Gilberto Junior Rodriguez Rodriguez',
+      //   cargo: 'Producción audiovisual',
+      //   centro:
+      //     'Centro Industrial del Diseño y la Manufactura - Regional Santander',
+      // },
+      // {
+      //   nombre: 'Lady Adriana Ariza Luque',
+      //   cargo: 'Producción audiovisual',
+      //   centro:
+      //     'Centro Industrial del Diseño y la Manufactura - Regional Santander',
+      // },
+      // {
+      //   nombre: 'Nelson Iván Vera Briceño',
+      //   cargo: 'Producción audiovisual',
+      //   centro:
+      //     'Centro Industrial del Diseño y la Manufactura - Regional Santander',
+      // },
+      // {
+      //   nombre: 'Wilson Andrés Arenales Caceres',
+      //   cargo: 'Producción audiovisual',
+      //   centro:
+      //     'Centro Industrial del Diseño y la Manufactura - Regional Santander',
+      // },
+      // {
+      //   nombre: 'Zuleidy Maria Ruiz Torres',
+      //   cargo: 'Producción audiovisual',
+      //   centro: 'Centro de Comercio y Servicios - Regional Tolima',
+      // },
       {
-        nombre: 'Nombre',
+        nombre: '',
         cargo: 'Validación de diseño y contenido',
         centro:
-          'Centro Industrial del Diseño y la Manufactura Regional Santander',
+          'Centro Industrial del Diseño y la Manufactura - Regional Santander',
       },
     ],
     gestoresRepositorio: [
