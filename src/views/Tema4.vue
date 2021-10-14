@@ -10,7 +10,7 @@
       img(src='@/assets/tema1/otras/img-12.png', alt='Técnicas de interpretación de modelos')
 
     .cajon-b.fnd-3-.p-3
-      p.mb-5 Para la elaboración de patrones (generalmente en tejido plano), de prendas ceñidas al cuerpo o entalladas, se emplean las pinzas, siendo estas las que cierran o recogen la tela hacia el interior del producto, logrando generar volúmenes hacía su vértice y entallar en sus extremos. Los patrones en los que más se emplean las pinzas son aquellos en los que se resalta la silueta de la persona que los usará, por ejemplo: el corpiño y la blusa básica o camisa femenina, la falda femenina, el vestido básico y algunas prendas masculinas, como la camisa slim fit, de las cuales se parte como básico para diferentes desarrollos.   
+      p.mb-5 Optitex es un software muy amplio, con múltiples opciones para que los patronistas exploren, avancen y desplieguen todo su potencial creativo en los procesos de patronaje. Dentro de las múltiples herramientas y opciones que ofrece, se halla el conjunto principal de herramientas para el desarrollo y transformación de patrones; todas ellas, al combinarlas entre sí y con las vistas hasta este punto, aumentan las posibilidades de operación, creación, patronaje, desarrollo de modelos, optimización de tiempos, espacios, materiales, entre otros beneficios.   
 
     .row.justify-content-around.align-items-center
       .col-lg-10.align-self-center.img-c
@@ -23,11 +23,11 @@
                 .row.justify-content-between.align-items-center
                   .col.mb-3.mb-sm-0
 
-                    p Se invita a visualizar el Anexo_1_HerramientasDesarrolloPatrones y estudiarlo responsablemente. En este se podrán reconocer y asimilar las amplias posibilidades y herramientas que Optitex tiene para patronistas y emprendedores de la confección. Se debe tener presente que el análisis serio de este documento, favorecerá el recorrido por los puntos siguientes de este componente formativo.
+                    p Se invita a visualizar el anexo "Herramientas de Optitex para el desarrollo de patrones" y estudiarlo responsablemente. En este se podrán reconocer y asimilar las amplias posibilidades y herramientas que Optitex tiene para patronistas y emprendedores de la confección. Se debe tener presente que el análisis serio de este documento, favorecerá el recorrido por los puntos siguientes de este componente formativo.
                   .col-sm-auto
                     a.boton.color-acento-contenido.texto-blanco(:href="obtenerLink('/downloads/Anexo_1_HerramientasDesarrollo Patrones.docx')" target="_blank")
                       span Ver más
-                      i.fas.fa-link
+                      i.fas.fa-file-download
 
       
 

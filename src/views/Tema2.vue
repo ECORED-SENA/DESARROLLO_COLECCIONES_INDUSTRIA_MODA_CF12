@@ -24,7 +24,7 @@
                 .row.align-self-center
                   .col-lg-12.align-self-center|
                     .bloque-texto-a__texto.p-4
-                      p En el software de patronaje Optitex, las pinzas que van hasta el contorno de una pieza, se realizan con el comando pinza como se muestra en la figura 3, el cual se encuentra en la ruta: <b><span class='txt-1'> caja de herramientas / pinzas y pliegues / pinza,</span></b> o por medio del atajo de teclas Ctrl+alt+d.
+                      p En el software de patronaje Optitex, las pinzas que van hasta el contorno de una pieza, se realizan con el comando pinza como se muestra en la figura 3, el cual se encuentra en la ruta: <b><span class='txt-1'> caja de herramientas/pinzas y pliegues/pinza,</span></b> o por medio del atajo de teclas Ctrl+alt+d.
 
     p A continuación, se muestran imágenes de las figuras 4, 5, 6, 7 y 8, el patronaje de uso de pinzas en Optitex; se debe observar y analizar atentamente cada una de ellas para una mejor comprensión del paso a paso de este proceso.
 
@@ -40,13 +40,13 @@
               .col-md-6
                 p.r-n.mb-3 #[strong Figura 4] Pasos pinza: primer punto
                 figure.fnd-5-.p-4
-                  img.img-450.img-c(src='@/assets/tema1/Figura 6.png', alt='Primer punto de la pinza')
+                  img.img-450.img-c(src='@/assets/tema1/CF_12/image011.png', alt='Primer punto de la pinza')
                 figcaption Nota. Optitex (2020).          
             .row
               .col-md-6
                 p.r-n.mb-3 #[strong Figura 5] Pasos pinza: segundo punto
                 figure.fnd-5-.p-4
-                  img.img-450.img-c(src='@/assets/tema1/Figura 7.png', alt='Texto que describa la imagen')
+                  img.img-450.img-c(src='@/assets/tema1/CF_12/image013.png', alt='Texto que describa la imagen')
                 figcaption Nota. Optitex (2020).              
               .col-md-6.mb-4.mb-md-0.align-self-center
                 h3 Segundo punto de la pinza
@@ -59,13 +59,13 @@
               .col-md-6
                 p.r-n.mb-3 #[strong Figura 6] Pasos pinza: profundidad de pinza
                 figure.fnd-5-.p-4
-                  img.img-450.img-c(src='@/assets/tema1/Figura 8.png', alt='Texto que describa la imagen')
+                  img.img-450.img-c(src='@/assets/tema1/CF_12/image015.png', alt='Texto que describa la imagen')
                 figcaption Nota. Optitex (2020).  
             .row
               .col-md-6
                 p.r-n.mb-3 #[strong Figura 7] Pasos pinza: propiedades de la pinza, profundidad
                 figure.fnd-5-.p-4
-                  img.img-450.img-c(src='@/assets/tema1/Figura 9.png', alt='Pasos pinza: propiedades de la pinza')
+                  img.img-450.img-c(src='@/assets/tema1/CF_12/image017.png', alt='Pasos pinza: propiedades de la pinza')
                 figcaption Nota. Optitex (2020).                   
               .col-md-6.mb-4.mb-md-0.align-self-center
                 h3 Caja de propiedades
@@ -78,7 +78,7 @@
               .col-md-6
                 p.r-n.mb-3 #[strong Figura 8] Pasos pinza: propiedades de la pinza, sobrepuesta
                 figure.fnd-5-.p-4
-                  img.img-450.img-c(src='@/assets/tema1/Figura 10.png', alt='Texto que describa la imagen')
+                  img.img-450.img-c(src='@/assets/tema1/CF_12/image019.png', alt='Texto que describa la imagen')
                 figcaption Nota. Optitex (2020).  
   .container.tarjeta.tarjeta--blanca.p-4.p-md-5
     .row
@@ -90,7 +90,7 @@
         figcaption Video: Leyenda del video     
     #t_2_1.titulo-segundo
       h2 2.1 Pinzas por pivote
-    p Si lo que se requiere para elaborar el diseño es abrir un volumen hasta cierta parte de la pieza, es decir, que no llegue hasta el otro extremo del contorno, se utilizará la herramienta <b><span class='txt-1'> pinza por pivote</span></b> como se muestra en la figura 9, con la siguiente ruta:<b><span class='txt-1'> caja de herramientas / pinzas y pliegues / pinza por pivote</span></b> (esta herramienta no cuenta con atajo de teclado).
+    p Si lo que se requiere para elaborar el diseño es abrir un volumen hasta cierta parte de la pieza, es decir, que no llegue hasta el otro extremo del contorno, se utilizará la herramienta <b><span class='txt-1'> pinza por pivote</span></b> como se muestra en la figura 9, con la siguiente ruta:<b><span class='txt-1'> caja de herramientas/pinzas y pliegues/pinza por pivote</span></b> (esta herramienta no cuenta con atajo de teclado).
 
     .row.justify-content-around.align-items-center
       .col-lg-10.align-self-center.img-c
@@ -121,17 +121,14 @@
             .lista-ol--cuadro__vineta.lii
               span 3
             | Punto pivote en el contorno hacia donde se va a llevar o distribuir el volumen (importante tener en cuenta el sentido horario).
+
           li 
             .lista-ol--cuadro__vineta.lii
               span 4
-            | Punto pivote en el contorno hacia donde se va a llevar o distribuir el volumen (importante tener en cuenta el sentido horario).
-          li 
-            .lista-ol--cuadro__vineta.lii
-              span 5
             | Mover el cursor para abrir la pieza.      
           li 
             .lista-ol--cuadro__vineta.lii
-              span 6
+              span 5
             | Escribir el valor deseado (en centímetros) del ancho de pinza en el cuadro de diálogo, aceptar.             
       .col-lg-6.med 
         figure
@@ -149,7 +146,7 @@
 
     .row.justify-content-between.mb-5
       .col-lg-6
-          p Cuando se requiere hacer múltiples pinzas o pliegues en una pieza, como, por ejemplo, realizar un plisado en una prenda, una falda de tablas o prenses, alforzas en una blusa, entre otras aplicaciones, se procede con la herramienta <b><span class='txt-1'>Pliegues</span></b> visible en la figura 10, dispuesta en la ruta: <b><span class='txt-1'>caja de herramientas / pinzas y pliegues / pliegues</span></b> o por medio de la tecla <b><span class='txt-1'>L</span></b> como atajo del teclado.   
+          p Cuando se requiere hacer múltiples pinzas o pliegues en una pieza, como, por ejemplo, realizar un plisado en una prenda, una falda de tablas o prenses, alforzas en una blusa, entre otras aplicaciones, se procede con la herramienta <b><span class='txt-1'>Pliegues</span></b> visible en la figura 10, dispuesta en la ruta: <b><span class='txt-1'>caja de herramientas/pinzas y pliegues/pliegues</span></b> o por medio de la tecla <b><span class='txt-1'>L</span></b> como atajo del teclado.   
           p A continuación, se presentan algunos de los aspectos más relevantes del uso de la herramienta<b><span class='txt-1'> Pliegues </span></b>en las figuras 11, 12, 13, 14 y 15:      
       .col-lg-6.mb-4.mb-lg-0
         p.r-n.mb-3 #[strong Figura 10] Herramienta pliegues
@@ -205,7 +202,7 @@
             .spam.fnd-8.py-4.px-5
               p.r-n2.mb-3 #[strong Figura 14] Pasos herramienta pliegues
               figure
-                img(src='@/assets/tema1/Figura 29.png')
+                img(src='@/assets/tema1/CF_12/Figura 31 A.png')
             figcaption  Nota. Optitex  (2020).
       div(titulo="Otros datos importantes sobre los pliegues")
         .row.fnd-7.mx-5
@@ -224,7 +221,7 @@
             .spam.fnd-8.py-4.px-5
               p.r-n2.mb-3 #[strong Figura 15] Pasos herramienta pliegues
               figure
-                img(src='@/assets/tema1/Figura 29.png')
+                img(src='@/assets/tema1/CF_12/Figura 31 A.png')
             figcaption  Nota. Optitex  (2020).
 
     Separador
@@ -281,7 +278,7 @@ export default {
       {
         titulo:
           '</h3><p> <span class="text-small">Apertura de una manga hasta el codo, paso 1 / herramienta <b><span class="txt-1"> pinza</span></b></p></span><h3>',
-        imagen: require('@/assets/tema1/img-13.png'),
+        imagen: require('@/assets/tema1/CF_12/Figura20.png'),
       },
       {
         titulo:
@@ -295,22 +292,22 @@ export default {
       },
       {
         titulo:
-          '</h3><p> <span class="text-small">Apertura de una manga hasta el codo, paso 4 / la herramienta <b><span class="txt-1"> pinza</span></b> también puede usarse para dar vuelo de bota acampanada a un pantalón</p></span><h3>',
+          '</h3><p> <span class="text-small">Apertura de una manga hasta el codo, paso 4 / la herramienta <b><span class="txt-1"> pinza</span></b> también puede usarse para dar vuelo de bota acampanada a un pantalón.</p></span><h3>',
         imagen: require('@/assets/tema1/Figura 26 D.png'),
       },
       {
         titulo:
-          '</h3><p> <span class="text-small">Apertura de una manga hasta el codo, paso 5</p></span><h3>',
+          '</h3><p> <span class="text-small">Apertura de una manga hasta el codo, paso 5.</p></span><h3>',
         imagen: require('@/assets/tema1/Figura 26 E.png'),
       },
       {
         titulo:
-          '</h3><p> <span class="text-small">Apertura de una manga hasta el codo, paso 6 / Recuerde que explorar la herramienta favorece la creación innovadora de modelos </p></span><h3>',
+          '</h3><p> <span class="text-small">Apertura de una manga hasta el codo, paso 6 / recuerde que explorar la herramienta favorece la creación innovadora de modelos. </p></span><h3>',
         imagen: require('@/assets/tema1/Figura 26 F.png'),
       },
       {
         titulo:
-          '</h3><p> <span class="text-small">Resultado / Al igual que en la herramienta <b><span class="txt-1">añadir flojos,</span></b>se rectifica el segmento donde se abrió la pinza y, si no la va a llevar, borrar la pinza que el sistema pone por defecto.</p></span><h3>',
+          '</h3><p> <span class="text-small">Resultado / al igual que en la herramienta <b><span class="txt-1">añadir flojos, </span></b>se rectifica el segmento donde se abrió la pinza y, si no la va a llevar, borrar la pinza que el sistema pone por defecto.</p></span><h3>',
         imagen: require('@/assets/tema1/Figura 26 G.png'),
       },
     ],

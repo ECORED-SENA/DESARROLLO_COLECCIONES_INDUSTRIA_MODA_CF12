@@ -1,2 +1,1 @@
-module.exports =
-  'NOMBRE DEL COMPONENTE FORMATIVO	Desarrollo de modelos digitales: masculino & femenino'
+module.exports = 'Desarrollo de modelos digitales: masculino & femenino'

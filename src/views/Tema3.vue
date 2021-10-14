@@ -23,8 +23,7 @@
       .col-lg-6
         p También conocidos como holguras, los desahogos hacen referencia al aumento, amplitud o soltura que se debe añadir al patrón de la prenda de vestir para que, aparte de la comodidad, facilite su postura o el movimiento que se haga con ella (performance).
         .cajon.color-acento-contenido.p-5.mb-4
-          p.mb-0 También conocidos como holguras, los desahogos hacen referencia al aumento, amplitud o soltura que se debe añadir al patrón de la prenda de vestir para que, aparte de la comodidad, facilite su postura o el movimiento que se haga con ella (performance).
-        p Se debe estudiar la tabla 1 que se muestra a continuación y analizar el mecanismo de aplicación de desahogos u holguras, añadidos al patrón de las prendas.          
+          p.mb-0 Los desahogos u holguras se dan en centímetros o pulgadas según el sistema métrico que se utilice en la empresa a trabajar. Dependen directamente del tejido y el desarrollo del modelo a realizar, se añaden luego de tener el patrón listo, tanto por contornos, como en los largos.         
       .col-lg-6             
         figure.mb-5
           img(src='@/assets/tema1/otras/img-2.png') 
@@ -40,7 +39,7 @@
                       img.img-c.img-130(src='@/assets/tema1/otras/img-3.svg')        
                 .col-lg-10.p-sm-4.ttb         
                   p.mb-1 #[strong DESAHOGOS  U HOLGURAS]
-                  p.mb-1 por tallas
+                  p.mb-1 Por tallas
                   p.mb-1 Adaptables a sobre medidas
                   p.mb-1 Las holguras o desahogos son las cantidades dadas al patr&oacute;n desarrollado para   brindarle la amplitud necesaria. Estudiando el tipo de tela o tejido a   utilizar, as&iacute; como la moda, para saber la medida necesaria a dejar.
           tr
@@ -62,10 +61,10 @@
           tr
             td.pann 
               
-              p 4-6 / XXS-XS/32-34 =   0,5mm
-              p 8-10/S-M/36-38 = 1cm
-              p 12-14/L-XL/40-42 = 1,5cm
-              p 16-18/XXL/44-46 =2cm
+              p 4-6/XXS-XS/32-34 = 0,5 mm
+              p 8-10/S-M/36-38 = 1 cm
+              p 12-14/L-XL/40-42 = 1,5 cm
+              p 16-18/XXL/44-46 =2 cm
               p 20-22/XXXL/48-50 = 2,5 cm
             td.pann 
               p 4-6/XXS-XS/34-34   = 1 cm
@@ -79,7 +78,7 @@
               .row.justify-content-around.align-items-center.px-4
                 .col-2
                   figure.mb-2
-                      img.img-c.img-130(src='@/assets/tema1/otras/img-5.svg')        
+                      img.img-c.img-130(src='@/assets/tema1/otras/img-6.svg')        
                 .col-10         
                   p.mb-0 #[strong CINTURA]
             td.ttb2(rowspan='4')
@@ -90,10 +89,10 @@
                 p.mb-0 Se da un aumento en el   centro delantero y/o espalda al largo total para personas con vientre   pronunciado y/o derriere grande.
           tr
             td.pann 
-              p 4-6/XXS-XS/32-34 =0,8   mm
-              p 8-10/S-M/36-38 = 1cm - 1,5 cm
+              p 4-6/XXS-XS/32-34 = 0,8 mm
+              p 8-10/S-M/36-38 = 1 cm - 1,5 cm
               p 12-14/L-XL/40-42 = 2 cm
-              p 16-18/XXL/44-46 =2,5 cm
+              p 16-18/XXL/44-46 = 2,5 cm
               p 20-22/XXXL/48-50 = 3 cm
     
           tr
@@ -101,7 +100,7 @@
               .row.justify-content-around.align-items-center.px-4
                 .col-2
                   figure.mb-2
-                      img.img-c.img-130(src='@/assets/tema1/otras/img-4.svg')        
+                      img.img-c.img-130(src='@/assets/tema1/otras/img-7.svg')        
                 .col-10         
                   p.mb-0 #[strong CADERA]
         
@@ -217,7 +216,7 @@
     .row.justify-content-around.align-items-center
       .col-lg-10.align-self-center.img-c
         .row.justify-content-around.align-items-center  
-          SlyderB.mb-5(:datos="datosSlyder")
+          SlyderB(:datos="datosSlyder")
 
     separador
     #t_3_3.titulo-segundo
@@ -235,17 +234,17 @@
                 tbody
                   tr
                     td.text-bold.fnd-5-1 1. Pecho 44
-                    td.text-bold.fnd-3  44/1.25= 35.                
+                    td.text-bold.fnd-3  44/1.25 = 35.2                
                   tr 
                     td.text-bold.text-bold Busto 48
-                    td.text-bold  48/1.25= 36. 8             
+                    td.text-bold  48/1.25 = 36.8             
                   tr
                     td.text-bold  Cintura 36 
-                    td.text-bold  36/1.25=28. 8 
+                    td.text-bold  36/1.25 = 28.8 
                   tr
                     td.text-bold  Cadera 48 
-                    td.text-bold  48/1.25=38. 4 
-    p.mb-5 A continuación figuras 23 y 24, se presenta un ejemplo de aplicación de la fórmula de porcentaje de elongación para un material con 25 %.             
+                    td.text-bold  48/1.25 = 38.4 
+    p.mb-5 A continuación en las figuras 23 y 24, se presenta un ejemplo de aplicación de la fórmula de porcentaje de elongación para un material con 25 %.             
 
     .row.justify-content-around.align-items-center
       .col-lg-10.align-self-center.img-c
@@ -257,7 +256,7 @@
       h2 3.4 Encogimientos
     .row.justify-content-around.align-items-center.mb-5
         .col-md-6
-          p Cuando una prenda o alguna de sus partes requiere procesos textiles que involucran calor, ésta se encoge, por lo cual hay que adicionarle la medida o porcentaje de encogimiento al patrón. Para determinar el porcentaje de encogimiento de la tela se corta un cuadrado de la tela a emplear en la producción de 1.2 m x 1.2 m (120 cm), el cual se filetea (sin cortar para no reducir medida) por los cuatro bordes. Se marca con un marcador de vinilo o un rotulador textil indeleble el hilo o aplome, las esquinas, centros, centros laterales, diagonales de un cuadrado de 100 cm x 100 cm (el cual equivaldrá al 100 %), ver la figura 25.
+          p Cuando una prenda o alguna de sus partes requiere procesos textiles que involucran calor, esta se encoge, por lo cual hay que adicionarle la medida o porcentaje de encogimiento al patrón. Para determinar el porcentaje de encogimiento de la tela se corta un cuadrado de la tela a emplear en la producción de 1.2 m x 1.2 m (120 cm), el cual se filetea (sin cortar para no reducir medida) por los cuatro bordes. Se marca con un marcador de vinilo o un rotulador textil indeleble el hilo o aplome, las esquinas, centros, centros laterales, diagonales de un cuadrado de 100 cm x 100 cm (el cual equivaldrá al 100 %), ver la figura 25.
           p Para realizar la adición de la medida o porcentaje de encogimiento al patrón de las prendas, se tienen en cuenta los aspectos siguientes:
         .col-md-6
           .spam.fnd-8.py-4.px-5
@@ -300,10 +299,10 @@
                   ul.lista-ul.px-3
                     li 
                       i.txt-1.fas.fa-check
-                      | Eje x: 100-89=11, por lo tanto, se debe aumentar un 11% a lo ancho (para el ejemplo), como se muestra en la figura.
+                      | Eje x: 100 - 89 = 11, por lo tanto, se debe aumentar un 11 % a lo ancho (para el ejemplo), como se muestra en la figura.
                     li 
                       i.txt-1.fas.fa-check
-                      | Eje y: 100-92=8, por lo tanto, se debe aumentar un 8% a lo largo (para el ejemplo), como se muestra en la figura.
+                      | Eje y: 100 - 92 = 8, por lo tanto, se debe aumentar un 8 % a lo largo (para el ejemplo), como se muestra en la figura.
                   
               
                 .col-md-6.px-4
@@ -315,7 +314,7 @@
               .row
                 .col-md-6.mb-4.mb-md-0.pann
                   h4 Acción de escalizar para encogimiento
-                  p Para continuar con el ejemplo, se trabaja en el sistema con el 11 % en x y el 8 % en y, y en este caso se hace en todas las piezas del área de trabajo (que para el ejemplo son en la misma tela), ver figura 27.
+                  p Para continuar con el ejemplo, se trabaja en el sistema con el 11 % en "x" y el 8 % en "y", y en este caso se hace en todas las piezas del área de trabajo (que para el ejemplo son en la misma tela), ver figura 27.
               
                 .col-md-6
                   p.r-n.mb-3 #[strong Figura 27] Ejemplo herramienta escalizar para encogimiento
@@ -347,7 +346,7 @@ export default {
       {
         titulo: 'Escalizar – aumento de holguras',
         texto:
-          'Para el aumento de las holguras en el desarrollo de los modelos que así lo requieren, en el sistema Optitex se emplea la herramienta escalizar, la cual se encuentra en la siguiente ruta, ver las figuras 19, 20, 21 y 22: menú pieza / modificar / escalizar.',
+          'Para el aumento de las holguras en el desarrollo de los modelos que así lo requieren, en el sistema Optitex se emplea la herramienta escalizar, la cual se encuentra en la siguiente ruta, ver las figuras 19, 20, 21 y 22: menú pieza/modificar/escalizar.',
         imagen: require('@/assets/tema1/Figura 35.png'),
         leyendaImagen: 'Figura 19. Herramienta escalizar',
       },
@@ -384,7 +383,7 @@ export default {
       {
         titulo: 'Propiedades materiales de la pieza',
         texto:
-          'Cabe recordar, que el porcentaje de elongación dependerá de la tela o el material a trabajar y que el 25% empleado en esta unidad es un ejemplo. También es importante que el patronista preste atención a la pieza o piezas a las que aplica esta modificación, pues dependerá de los materiales empleados en cada una de las piezas de la prenda.',
+          'Cabe recordar, que el porcentaje de elongación dependerá de la tela o el material a trabajar y que el 25 % empleado en esta unidad es un ejemplo. También es importante que el patronista preste atención a la pieza o piezas a las que aplica esta modificación, pues dependerá de los materiales empleados en cada una de las piezas de la prenda.',
         imagen: require('@/assets/tema1/Figura 39 B.png'),
         leyendaImagen: 'Figura 24. Ejemplo herramienta escalizar elongación',
       },

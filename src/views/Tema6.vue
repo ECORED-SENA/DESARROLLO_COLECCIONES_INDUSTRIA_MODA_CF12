@@ -10,7 +10,7 @@
 
     .row.mb-5.d-flex
       .col-lg-6.mb-5
-        P.mb-5 Es el proceso mediante el cual, el patronista realiza las tallas menores y mayores, a partir de la talla base. Este proceso se logra moviendo los puntos principales en las coordenadas de los ejes <b><span class='txt-1'>X</span></b> y <b><span class='txt-1'>Y</span></b>. En el sistema se hace fundamental configurar esta información previamente al escalado, para lo cual se determina la tabla de tallas, que se encuentra en el menú <b><span class='txt-1'>escalado / tabla de tallas</span></b> o por medio del atajo de teclado <b><span class='txt-1'>shift + f4</span></b>, ver figura 59.
+        P.mb-5 Es el proceso mediante el cual, el patronista realiza las tallas menores y mayores, a partir de la talla base. Este proceso se logra moviendo los puntos principales en las coordenadas de los ejes <b><span class='txt-1'>X</span></b> y <b><span class='txt-1'>Y</span></b>. En el sistema se hace fundamental configurar esta información previamente al escalado, para lo cual se determina la tabla de tallas, que se encuentra en el menú <b><span class='txt-1'>escalado/tabla de tallas</span></b> o por medio del atajo de teclado <b><span class='txt-1'>shift + f4</span></b>, ver figura 59.
 
         p.r-n.mb-3 #[strong Figura 59] Tabla de medidas
         figure.fnd-5-2.p-4
@@ -155,7 +155,7 @@
       .col-lg-6             
         figure.mb-5
           img(src='@/assets/tema1/otras/img-25.png') 
-
+      p Para una mejor comprensión de la herramienta Pegar escalado, se deben visualizar con atención el conjunto de pasos que se presentan a continuación:
   .container.tarjeta.tarjeta--blanca
     .row.justify-content-around.align-items-center.fnd-1
       .col-lg-10.align-self-center.img-c
@@ -245,7 +245,7 @@ export default {
       {
         titulo: 'Ingreso de valores de escalado',
         texto:
-          'Se deben ingresar los valores de cada punto en cada una de las dimensiones (dx y dy) para cada talla. Si al ingresar los valores no se ve el escalado, se debe activar con f4 <b><span class="txt-1">(activar / desactivar escalado)</span></b> , ver figura 63.',
+          'Se deben ingresar los valores de cada punto en cada una de las dimensiones (dx y dy) para cada talla. Si al ingresar los valores no se ve el escalado, se debe activar con f4 <b><span class="txt-1">(activar/desactivar escalado)</span></b>, ver figura 63.',
         imagen: require('@/assets/tema1/Figura 80 B.png'),
         leyendaImagen: 'Figura 63. Registro de valores de escalado',
       },
@@ -261,7 +261,7 @@ export default {
         texto:
           'La acción de <b><span class="txt-1">igualar todos</span></b>, ver figura 65, replicará el valor en las demás tallas, proceso que ahorra tiempo y garantiza presión del escalado.',
         imagen: require('@/assets/tema1/Figura 81 B.png'),
-        leyendaImagen: 'Figura 65. Ejemplo herramienta escalizar aumento',
+        leyendaImagen: 'Figura 65. Resultado de igualar todos',
       },
     ],
 
@@ -298,8 +298,8 @@ export default {
       },
       {
         titulo: 'Resultado',
-        texto: 'de “Voltear escalado a una dimensión”.',
-        imagen: require('@/assets/tema1/Figura 82 D.png'),
+        texto: 'de “Voltear escalado a ambas dimensiones”.',
+        imagen: require('@/assets/tema1/Figura 83 C.png'),
       },
     ],
   }),

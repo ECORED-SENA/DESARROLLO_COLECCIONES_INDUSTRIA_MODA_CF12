@@ -17,7 +17,7 @@
             figure.p-3
                 img.img-c.img-290(src='@/assets/tema1/img-2.svg')        
           .col-lg-9.p-sm-4         
-            p Para conseguirlo, el desarrollador de modelos deberá conocer diferentes metodologías de patronaje, experimentar con variables técnicas y teorías de diseño y patronaje, puesto que, según el tipo de prenda a realizar se decidirá el camino a tomar. A continuación, se conocerán los aspectos básicos de suma importancia para este proceso.
+            p Para conseguirlo, el desarrollador de modelos deberá conocer diferentes <b>metodologías de patronaje,</b> experimentar con <b>variables técnicas</b> y <b>teorías de diseño y patronaje,</b> puesto que, según el tipo de prenda a realizar se decidirá el camino a tomar. A continuación, se conocerán los aspectos básicos de suma importancia para este proceso.
 
   .container.tarjeta.tarjeta--blanca.p-4.p-md-5
     .row.justify-content-around.align-items-center.mb-5
@@ -35,7 +35,7 @@
 
             .tarjeta.fnd-2.p-4(titulo="Interpretación de los detalles")
               h4 Interpretación de los detalles
-              p Luego de tener claras las modificaciones a la estructura, el patronista procede a interpretar cada uno de los detalles plasmados en el diseño, por ejemplo: a que altura tiene los bolsillos (si es que los tiene) de qué tamaño y forma son, cómo van confeccionados, si tiene almilla o canesú, qué tamaño tiene y cómo lo deberá trazar sobre la prenda; en general, todos los detalles que constituyen un producto terminado: tamaño, forma del cuello, si lleva recogidos, si la pretina es recta o anatómica y cuantos centímetros tendrá, cómo están confeccionadas las diferentes partes de la prenda, entre otras.
+              p Luego de tener claras las modificaciones a la estructura, el patronista procede a interpretar cada uno de los detalles plasmados en el diseño, por ejemplo: a qué altura tiene los bolsillos (si es que los tiene) de qué tamaño y forma son, cómo van confeccionados, si tiene almilla o canesú, qué tamaño tiene y cómo lo deberá trazar sobre la prenda; en general, todos los detalles que constituyen un producto terminado: tamaño, forma del cuello, si lleva recogidos, si la pretina es recta o anatómica y cuántos centímetros tendrá, cómo están confeccionadas las diferentes partes de la prenda, entre otras.
             
             .tarjeta.fnd-2.p-4(titulo="Control y documentación técnica del producto")
               h4 Control y documentación técnica del producto
@@ -49,7 +49,7 @@
                         img.img-100.img-c(src='@/assets/tema1/img-3.svg')        
                   .col-lg-10.py-4         
                     p Durante todo el proceso se deben tener presentes la ocasión de uso, las materias primas y los insumos a emplear, pues de estos dependerán, en gran medida, las decisiones que se toman.
-                    p Una vez se tiene el patrón del modelo desarrollado, se procede a cortar una muestra para medirla sobre el modelo de tallaje de la empresa, este prototipo es fundamental para la verificación de detalles y modelación final del producto, pues sobre éste se toman decisiones importantes para la producción del lote.
+                    p Una vez se tiene el patrón del modelo desarrollado, se procede a cortar una muestra para medirla sobre el modelo de tallaje de la empresa, este prototipo es fundamental para la verificación de detalles y modelación final del producto, pues sobre este se toman decisiones importantes para la producción del lote.
         br
         br
     #t_1_1.titulo-segundo
@@ -80,7 +80,7 @@
                   p.text-center  Si bien no reemplaza las muestras físicas, le permite al patronista hacerse una idea de cómo va estructurado el producto y presentarlo ante los demás departamentos, permitiendo implementar mejoras en tiempo real. 
     separador     
     #t_1_2.titulo-segundo
-      h2 1.2 Los sets de tallas
+      h2 1.2 Los <em>sets</em> de tallas
     p.mb-5 Luego de que se tiene el prototipo o muestra física aprobado como en la figura 1, se procede a hacer lo que en el medio se llama un set de tallas, es decir una muestra de cada una de las tallas, por lo que se requiere escalar los patrones del modelo, en cada una de las tallas en las que se fabricará.
     .row.justify-content-around.align-items-center
       .col-lg-10.align-self-center.img-c

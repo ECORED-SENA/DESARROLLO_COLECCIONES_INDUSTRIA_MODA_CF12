@@ -31,7 +31,7 @@
             img(src="@/assets/tema1/otras/img-37.svg", alt="alt").class          
           .crd_01__txt
             h4 Ubicación de la herramienta
-            p Esta herramienta digitalizar se encuentra en la caja de herramientas / herramientas de Windows / digitalizar, en el recuadro del cuadro de diálogo, se va visualizando el patrón digitalizado.
+            p Esta herramienta digitalizar se encuentra en la caja de herramientas/herramientas de Windows/digitalizar, en el recuadro del cuadro de diálogo, se va visualizando el patrón digitalizado.
       .col-lg-6.px-4.mb-5    
         .crd_01
           .crd_01__icon
@@ -56,7 +56,7 @@
               .col-lg-6.px-4
                 p.r-n.mb-3 #[strong Figura 75.] Digitalizar
                 figure.fnd-5-.p-4
-                  img.img-450.img-c(src='')
+                  img.img-450.img-c(src='@/assets/tema1/Figura 87.jpg')
                 figcaption Nota. Optitex  (2020).
 
 

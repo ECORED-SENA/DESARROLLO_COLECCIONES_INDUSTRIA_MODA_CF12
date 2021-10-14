@@ -60,7 +60,7 @@
               .row
                 .col-md-6.mb-4.mb-md-0.pann
                   h4 Trazo del lote
-                  p O desde el módulo de marker (trazo), se puede imprimir el trazo del lote.
+                  p O desde el módulo de <b>marker</b> (trazo), se puede imprimir el trazo del lote.
               
                 .col-md-6.px-5
                   p.r-n.mb-3 #[strong Figura 79.] Ejemplo de trazo
@@ -89,7 +89,7 @@
                     img.img-c.img-130(src='@/assets/tema1/otras/img-30.svg')        
               .col-10         
                 p.mb-2 Para profundizar aspectos importantes de los diferentes procesos abordados en este componente formativo, se le sugiere visitar los vídeos publicados en:
-                a.anexo.mb-4.mb-lg-0(href="https://www.youtube.com/channel/uclyolbi73tla3civb2se5ma" target="_blank")
+                a.anexo.mb-4.mb-lg-0(href="https://www.youtube.com/channel/UClYOLBi73tla3Civb2SE5MA" target="_blank")
                   .anexo__icono
                     img(src="@/assets/template/icono-link.svg")
                   .anexo__texto

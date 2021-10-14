@@ -1,4 +1,4 @@
-# **NOMBRE DEL COMPONENTE FORMATIVO	Desarrollo de modelos digitales: masculino & femenino**
+# **Desarrollo de modelos digitales: masculino & femenino**
 
 ## **Enlace GitHubPages**
 

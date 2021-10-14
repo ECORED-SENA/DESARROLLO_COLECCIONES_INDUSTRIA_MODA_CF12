@@ -36,7 +36,7 @@ export default {
           {
             icono: 'far fa-file-alt',
             numero: '1.2',
-            titulo: 'Los sets de tallas',
+            titulo: 'Los <em>sets</em> de tallas',
             hash: 't_1_2',
           },
           {
@@ -223,26 +223,25 @@ export default {
     {
       referencia:
         'Carrera de Diseño y Gestión en Moda. (2015). Técnicas de patronaje. Mujer. ',
-      link:
-        'Http://ebookcentral.proquest.com/lib/senavirtualsp/detail.action?docid=4184903',
+      //link:
+      //'Http://ebookcentral.proquest.com/lib/senavirtualsp/detail.action?docid=4184903',
     },
     {
       referencia:
-        'Celestecielo. (s.f.). El rincón de celestecielo: desahogos, holguras o flojos y costuras en los patrones para tejido plano. [Web log post]. El rincón de celestecielo. ',
+        'Celestecielo. (s.f.). El rincón de celestecielo: desahogos, holguras o flojos y costuras en los patrones para tejido plano. El rincón de celestecielo. ',
       link:
         'https://elrincondecelestecielo.blogspot.com/2012/08/desahogos-o-flojos-y-costuras-en-los.html',
     },
     {
       referencia:
-        'García, M. (2016). Cuánto se deja para el margen de costura. [Web log post]. El baúl de la costurera. ',
+        'García, M. (2016). Cuánto se deja para el margen de costura. El baúl de la costurera. ',
       link:
         'Https://www.elbauldelacosturera.com/2016/08/cuanto-se-deja-para-el-margen-de-costura.html',
     },
     {
       referencia:
         'Gaviria, F. (2016, Diciembre 05-06). Análisis de resultados antropométricos tomados con body scanner, Tercer Simposio Nacional de Formación con calidad y pertinencia. ',
-      link:
-        'Simposio dirigido por el Servicio Nacional de Aprendizaje. Http://sinafocape.wixsite.com/tercersimposio',
+      link: 'https://sinafocape.wixsite.com/tercersimposio',
     },
     {
       referencia:
@@ -251,13 +250,12 @@ export default {
         'Https://www.scribd.com/doc/187465705/valores-de-desahogo-estimados-segun-el-tipo-de-prenda-y-volumen-deseado-2',
     },
     {
-      referencia:
-        'Handbox. (2016). Añadir márgenes de costura. [Web log post]. Handbox. ',
+      referencia: 'Handbox. (2016). Añadir márgenes de costura. Handbox. ',
       link: 'Https://handbox.es/anadir-margenes-de-costura',
     },
     {
-      referencia: 'L, L. (s.f.). Patronaje sistematizado [Video]. YouTube. ',
-      link: 'https://www.youtube.com/channel/uclyolbi73tla3civb2se5ma',
+      referencia: 'L, L. (s.f.). Patronaje sistematizado. YouTube. ',
+      link: 'https://www.youtube.com/channel/UClYOLBi73tla3Civb2SE5MA',
     },
     {
       referencia:
@@ -276,7 +274,7 @@ export default {
     },
     {
       referencia:
-        'Skarlett costura. (s.f.). Métodos para añadir el margen de costura a tus patrones. [Web log post] Skarlett. ',
+        'Skarlett costura. (s.f.). Métodos para añadir el margen de costura a tus patrones. Skarlett. ',
       link: 'https://skarlett.es/anadir-margen-de-costura-patron/',
     },
   ],
@@ -286,11 +284,7 @@ export default {
       significado:
         'Del dim. De alma1, por su unión íntima con el cuerpo. 1. F. Especie de jubón, con mangas o sin ellas, ajustado al cuerpo. 2. F. Jubón cerrado, escotado y de manga corta que se ponía debajo de la armadura (Real Academia Española, s.f.).',
     },
-    {
-      termino: 'Canesú',
-      significado:
-        '2. M. Pieza superior de la camisa o blusa a la que se pegan el cuello, las mangas y el resto de la prenda (Real Academia Española, s.f.).',
-    },
+
     {
       termino: 'Bitácora',
       significado:
@@ -368,12 +362,13 @@ export default {
   ],
   complementario: [
     {
-      texto: 'Sistema de ploteo - L. L. (s.f.). Patronaje Sistematizado Home ',
+      texto:
+        'Sistema de ploteo - L. L. (s.f.). Patronaje Sistematizado <em>Home </em>',
       tipo: 'Video',
-      link: 'https://www.youtube.com/channel/uclyolbi73tla3civb2se5ma ',
+      link: 'https://www.youtube.com/channel/UClYOLBi73tla3Civb2SE5MA',
     },
     {
-      texto: 'Sistema de ploteo - Galeano, K. (s.f.).  Koraline Home ',
+      texto: 'Sistema de ploteo - Galeano, K. (s.f.).  Koraline <em>Home</em>',
       tipo: 'Video',
       link: 'https://www.youtube.com/c/krogaleanojaramillo/videos',
     },
@@ -395,15 +390,15 @@ export default {
       },
       {
         nombre: 'Ana Catalina Córdoba Sus',
-        cargo: 'Revisora Metodológica y Pedagógica',
+        cargo: 'Revisora metodológica y pedagógica',
         centro:
           'Centro para la Industria de la Comunicación Gráfica - Regional Distrito Capital',
       },
 
       {
-        nombre: 'Andrés Velandia',
+        nombre: 'Andrés Felipe Velandia Espitia',
         cargo: 'Revisión pedagógica y metodológica',
-        centro: 'Regional y CF',
+        centro: 'Regional Distrito Capital – Centro de Diseño y Metrología',
       },
 
       {
@@ -415,7 +410,7 @@ export default {
         nombre: 'Fabio Andrés Gaviria Londoño',
         cargo: 'Instructor',
         centro:
-          'Centro de formación en diseño, confección y moda - Regional Antioquia',
+          'Centro de Formación en Diseño, Confección y Moda - Regional Antioquia',
       },
 
       {
@@ -427,7 +422,7 @@ export default {
 
       {
         nombre: 'Liliana Victoria Morales Gualdrón',
-        cargo: 'Diseñadora Instruccional',
+        cargo: 'Diseñadora instruccional',
         centro:
           'Centro para la Industria de la Comunicación Gráfica - Regional Distrito Capital',
       },
@@ -436,7 +431,7 @@ export default {
         nombre: 'Marisol Osorio',
         cargo: 'Líder SENNOVA',
         centro:
-          'Centro de formación en diseño, confección y moda - Regional Antioquia',
+          'Centro de Formación en Diseño, Confección y Moda - Regional Antioquia',
       },
 
       {
@@ -512,7 +507,7 @@ export default {
       //   centro: 'Centro de Comercio y Servicios - Regional Tolima',
       // },
       {
-        nombre: '',
+        nombre: 'Jhana Johanna Bustillo Ardila',
         cargo: 'Validación de diseño y contenido',
         centro:
           'Centro Industrial del Diseño y la Manufactura - Regional Santander',

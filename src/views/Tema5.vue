@@ -104,7 +104,7 @@
                 | 4 direcciones: las piezas se podrán cortar en ambas direcciones del aplome y en las dos direcciones de la trama. 
               li 
                 i.txt-1.fas.fa-check
-                | 8 direcciones: la pieza se traza en las dos direcciones del hilo, en las dos de trama y las cuatro direcciones diagonales (45°, 135°, 225°, 315°). Cualquier dirección: la pieza no tiene restricciones de dirección en el trazo. Ver figura:
+                | 8 direcciones: la pieza se traza en las dos direcciones del hilo, en las dos de trama y las cuatro direcciones diagonales (45°, 135°, 225°, 315°). Cualquier dirección: la pieza no tiene restricciones de dirección en el trazo. 
           div(titulo="Inclinación de la pieza")
             p Esta opción, aunque no es muy común utilizarla, se emplea para darle inclinación a la pieza al momento de realizar el trazo, es muy útil cuando la tela presenta hilo virado (comúnmente conocido como pierna virada), se compensa el ángulo de virado hacia el lado contrario para que la prenda terminada quede con el hilo como debe ser. 
           div(titulo="Encogimiento")            
@@ -161,7 +161,7 @@ export default {
       {
         titulo: 'Escalizar – aumento de holguras',
         texto:
-          'Para el aumento de las holguras en el desarrollo de los modelos que así lo requieren, en el sistema Optitex se emplea la herramienta escalizar, la cual se encuentra en la siguiente ruta, ver las figuras 19, 20, 21 y 22: menú pieza / modificar / escalizar.',
+          'Para el aumento de las holguras en el desarrollo de los modelos que así lo requieren, en el sistema Optitex se emplea la herramienta escalizar, la cual se encuentra en la siguiente ruta, ver las figuras 19, 20, 21 y 22: menú pieza/modificar/escalizar.',
         imagen: require('@/assets/tema1/Figura 35.png'),
         leyendaImagen: 'Figura 19. Herramienta escalizar',
       },
