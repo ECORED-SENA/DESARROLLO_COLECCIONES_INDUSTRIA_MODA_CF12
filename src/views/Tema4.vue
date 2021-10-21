@@ -25,7 +25,7 @@
 
                     p Se invita a visualizar el anexo "Herramientas de Optitex para el desarrollo de patrones" y estudiarlo responsablemente. En este se podrán reconocer y asimilar las amplias posibilidades y herramientas que Optitex tiene para patronistas y emprendedores de la confección. Se debe tener presente que el análisis serio de este documento, favorecerá el recorrido por los puntos siguientes de este componente formativo.
                   .col-sm-auto
-                    a.boton.color-acento-contenido.texto-blanco(:href="obtenerLink('/downloads/Anexo_1_HerramientasDesarrollo Patrones.docx')" target="_blank")
+                    a.boton.color-acento-contenido.texto-blanco(:href="obtenerLink('/downloads/moda - CF12 anexo.pdf')" target="_blank")
                       span Ver más
                       i.fas.fa-file-download
 
