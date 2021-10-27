@@ -86,8 +86,8 @@
 
       figure.mb-5
         .video
-          iframe(width="560" height="315" src="https://www.youtube.com/embed/2L91WMqw96A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
-        figcaption Video: Leyenda del video     
+          iframe(width="560" height="315" src="https://www.youtube.com/embed/gUEDWvGuc2k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
+            
     #t_2_1.titulo-segundo
       h2 2.1 Pinzas por pivote
     p Si lo que se requiere para elaborar el diseño es abrir un volumen hasta cierta parte de la pieza, es decir, que no llegue hasta el otro extremo del contorno, se utilizará la herramienta <b><span class='txt-1'> pinza por pivote</span></b> como se muestra en la figura 9, con la siguiente ruta:<b><span class='txt-1'> caja de herramientas/pinzas y pliegues/pinza por pivote</span></b> (esta herramienta no cuenta con atajo de teclado).
