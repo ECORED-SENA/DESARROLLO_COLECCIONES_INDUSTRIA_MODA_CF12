@@ -277,7 +277,7 @@ export default {
     datosSlyder: [
       {
         titulo:
-          '</h3><p> <span class="text-small">Apertura de una manga hasta el codo, paso 1 / herramienta <b><span class="txt-1"> pinza</span></b></p></span><h3>',
+          '</h3><p> <span class="text-small">Apertura de una manga hasta el codo, paso 1/herramienta <b><span class="txt-1"> pinza</span></b></p></span><h3>',
         imagen: require('@/assets/tema1/CF_12/Figura20.png'),
       },
       {
@@ -287,12 +287,12 @@ export default {
       },
       {
         titulo:
-          '</h3><p> <span class="text-small">Apertura de una manga hasta el codo, paso 3 / esta herramienta también puede usarse para abrir nesgas a una falda, por ejemplo.</p></span><h3>',
+          '</h3><p> <span class="text-small">Apertura de una manga hasta el codo, paso 3/esta herramienta también puede usarse para abrir nesgas a una falda, por ejemplo.</p></span><h3>',
         imagen: require('@/assets/tema1/Figura 26 C.png'),
       },
       {
         titulo:
-          '</h3><p> <span class="text-small">Apertura de una manga hasta el codo, paso 4 / la herramienta <b><span class="txt-1"> pinza</span></b> también puede usarse para dar vuelo de bota acampanada a un pantalón.</p></span><h3>',
+          '</h3><p> <span class="text-small">Apertura de una manga hasta el codo, paso 4/la herramienta <b><span class="txt-1"> pinza</span></b> también puede usarse para dar vuelo de bota acampanada a un pantalón.</p></span><h3>',
         imagen: require('@/assets/tema1/Figura 26 D.png'),
       },
       {
@@ -302,12 +302,12 @@ export default {
       },
       {
         titulo:
-          '</h3><p> <span class="text-small">Apertura de una manga hasta el codo, paso 6 / recuerde que explorar la herramienta favorece la creación innovadora de modelos. </p></span><h3>',
+          '</h3><p> <span class="text-small">Apertura de una manga hasta el codo, paso 6/recuerde que explorar la herramienta favorece la creación innovadora de modelos. </p></span><h3>',
         imagen: require('@/assets/tema1/Figura 26 F.png'),
       },
       {
         titulo:
-          '</h3><p> <span class="text-small">Resultado / al igual que en la herramienta <b><span class="txt-1">añadir flojos, </span></b>se rectifica el segmento donde se abrió la pinza y, si no la va a llevar, borrar la pinza que el sistema pone por defecto.</p></span><h3>',
+          '</h3><p> <span class="text-small">Resultado/al igual que en la herramienta <b><span class="txt-1">añadir flojos, </span></b>se rectifica el segmento donde se abrió la pinza y, si no la va a llevar, borrar la pinza que el sistema pone por defecto.</p></span><h3>',
         imagen: require('@/assets/tema1/Figura 26 G.png'),
       },
     ],
