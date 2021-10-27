@@ -33,24 +33,22 @@
       .col-lg-6
         .cajon-b.fnd-3-.p-3
           p Luego de la asignación de la talla base, se procede a la creación o asignación de las tallas inferiores y superiores, para lo cual se emplean dos botones de la herramienta: el<b><span class='txt-1'> botón insertar tallas</span></b>, para las tallas menores que la base y el<b><span class='txt-1'> botón agregar tallas</span></b>, para las tallas mayores que la base. Frente a cada botón se encuentra un campo en el que se indica el número de tallas a insertar o agregar.
-          p.mb-5 Analizar, en detalle, el ejemplo que se muestra en el siguiente recurso:
-       
+          p.mb-3 Analizar, en detalle, el ejemplo que se muestra en el siguiente recurso:
+        
+        a.anexo.mb-4(:href="obtenerLink('/downloads/Colecciones_industria_moda.pdf')" target="_blank")
+          .anexo__icono
+            img(src="@/assets/template/icono-pdf.svg")
+          .anexo__texto
+            p Colecciones Industria de moda.                  
       .col-lg-6             
         figure.mb-5
           img(src='@/assets/tema1/otras/img-22.png') 
 
-          
-    .row.justify-content-around.align-items-center
-      .col-lg-10.align-self-center.img-c
-
-        figure.mb-5
-          .video
-            iframe(width="560" height="315" src="https://www.youtube.com/embed/2L91WMqw96A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
          
     separador
     #t_6_2.titulo-segundo
       h2 6.2 Aplicar el escalado
-    p.mb-5 Para aplicar el escalado, primero se selecciona el punto (recordar que debe ser escalado) y se abre la ventana, la cual se encuentra en el menú <b><span class='txt-1'>ver / tabla de escalado</span></b> o por medio de la tecla “<b><span class='txt-1'>2</span></b>” (sobre la q y la w), la cual se abre con los valores en blanco, ver figura 61.
+    p.mb-5 Para aplicar el escalado, primero se selecciona el punto (recordar que debe ser escalado) y se abre la ventana, la cual se encuentra en el menú <b><span class='txt-1'>ver/tabla de escalado</span></b> o por medio de la tecla “<b><span class='txt-1'>2</span></b>” (sobre la q y la w), la cual se abre con los valores en blanco, ver figura 61.
     .row.justify-content-around.align-items-center.mb-5
       .col-md-6.px-4    
         p.r-n.mb-3 #[strong Figura 61] Tabla de escalado
@@ -87,7 +85,7 @@
       .col-lg-6
         .cajon-b.fnd-3-.p-3
           p Para una mayor optimización del tiempo existe la herramienta <b><span class='txt-1'>escalado múltiple,</span></b> con la cual se ingresan los mismos valores en todas las tallas.
-          p Los siguientes son los pasos para el uso apropiado de la herramienta de <b><span class='txt-1'>Escalado múltiple,</span></b>, ver figuras 66, 67, 68 y 69. Recuerde tomar nota atenta, en su libreta personal de apuntes, de los aspectos más importantes y destacados de este punto.
+          p Los siguientes son los pasos para el uso apropiado de la herramienta de <b><span class='txt-1'>Escalado múltiple</span></b>, ver figuras 66, 67, 68 y 69. Recuerde tomar nota atenta, en su libreta personal de apuntes, de los aspectos más importantes y destacados de este punto.
       .col-lg-6             
         figure.mb-5
           img(src='@/assets/tema1/otras/img-24.png') 

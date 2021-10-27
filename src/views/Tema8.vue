@@ -27,7 +27,7 @@
               .row
                 .col-md-6.mb-4.mb-md-0.pann
                   h4 Varios tipos de patrones
-                  p En el plotter se logra imprimir patrones individuales, nidos de tallas (para verificación de medidas o del escalado) y trazos para producción. Para imprimir un patrón desde el software, se va al menú archivo / plotear (o el atajo Ctrl + l).
+                  p En el plotter se logra imprimir patrones individuales, nidos de tallas (para verificación de medidas o del escalado) y trazos para producción. Para imprimir un patrón desde el <em>software</em>, se va al menú archivo / plotear (o el atajo Ctrl + l).
                 .col-md-6.px-5
                   p.r-n.mb-3 #[strong Figura 76.] Plotear
                   figure

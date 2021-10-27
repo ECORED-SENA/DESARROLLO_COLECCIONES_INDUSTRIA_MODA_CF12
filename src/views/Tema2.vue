@@ -8,7 +8,7 @@
       h1 Elaboración de pinzas
     figure.mb-5
       img(src='@/assets/tema1/img-7.png', alt='Técnicas de interpretación de modelos')
-    p.mb-5 Para la elaboración de patrones (generalmente en tejido plano), de prendas ceñidas al cuerpo o entalladas, se emplean las pinzas, siendo estas las que cierran o recogen la tela hacia el interior del producto, logrando generar volúmenes hacía su vértice y entallar en sus extremos. Los patrones en los que más se emplean las pinzas son aquellos en los que se resalta la silueta de la persona que los usará, por ejemplo: el corpiño y la blusa básica o camisa femenina, la falda femenina, el vestido básico y algunas prendas masculinas, como la camisa slim fit, de las cuales se parte como básico para diferentes desarrollos.  
+    p.mb-5 Para la elaboración de patrones (generalmente en tejido plano), de prendas ceñidas al cuerpo o entalladas, se emplean las pinzas, siendo estas las que cierran o recogen la tela hacia el interior del producto, logrando generar volúmenes hacía su vértice y entallar en sus extremos. Los patrones en los que más se emplean las pinzas son aquellos en los que se resalta la silueta de la persona que los usará, por ejemplo: el corpiño y la blusa básica o camisa femenina, la falda femenina, el vestido básico y algunas prendas masculinas, como la camisa <em>slim fit</em>, de las cuales se parte como básico para diferentes desarrollos.  
 
     .row.justify-content-around.align-items-center
       .col-lg-10.align-self-center.img-c
@@ -24,7 +24,7 @@
                 .row.align-self-center
                   .col-lg-12.align-self-center|
                     .bloque-texto-a__texto.p-4
-                      p En el software de patronaje Optitex, las pinzas que van hasta el contorno de una pieza, se realizan con el comando pinza como se muestra en la figura 3, el cual se encuentra en la ruta: <b><span class='txt-1'> caja de herramientas/pinzas y pliegues/pinza,</span></b> o por medio del atajo de teclas Ctrl+alt+d.
+                      p En el <em>software</em> de patronaje Optitex, las pinzas que van hasta el contorno de una pieza, se realizan con el comando pinza como se muestra en la figura 3, el cual se encuentra en la ruta: <b><span class='txt-1'> caja de herramientas/pinzas y pliegues/pinza,</span></b> o por medio del atajo de teclas Ctrl+alt+d.
 
     p A continuación, se muestran imágenes de las figuras 4, 5, 6, 7 y 8, el patronaje de uso de pinzas en Optitex; se debe observar y analizar atentamente cada una de ellas para una mejor comprensión del paso a paso de este proceso.
 
@@ -197,7 +197,7 @@
               | Profundidad: es la cantidad (en centímetros) que se abrirá la pinza o el pliegue.
             li 
               i.txt-1.fas.fa-check
-              | Variable: esta herramienta permite variar la profundidad y la distancia de los pliegues, en el caso de que se requiera, se podrá activar esta casilla y el software habilitará los campos de variable, que serán diligenciados con la información del segundo punto o punto extremo de los pliegues, por ejemplo, si se requiere hacer pliegues que comiencen con una profundidad de 1 cm y terminen con profundidad de 2,5 cm.
+              | Variable: esta herramienta permite variar la profundidad y la distancia de los pliegues, en el caso de que se requiera, se podrá activar esta casilla y el <em>software</em> habilitará los campos de variable, que serán diligenciados con la información del segundo punto o punto extremo de los pliegues, por ejemplo, si se requiere hacer pliegues que comiencen con una profundidad de 1 cm y terminen con profundidad de 2,5 cm.
           .col-md-8
             .spam.fnd-8.py-4.px-5
               p.r-n2.mb-3 #[strong Figura 14] Pasos herramienta pliegues

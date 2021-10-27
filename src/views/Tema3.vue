@@ -23,7 +23,9 @@
       .col-lg-6
         p También conocidos como holguras, los desahogos hacen referencia al aumento, amplitud o soltura que se debe añadir al patrón de la prenda de vestir para que, aparte de la comodidad, facilite su postura o el movimiento que se haga con ella (performance).
         .cajon.color-acento-contenido.p-5.mb-4
-          p.mb-0 Los desahogos u holguras se dan en centímetros o pulgadas según el sistema métrico que se utilice en la empresa a trabajar. Dependen directamente del tejido y el desarrollo del modelo a realizar, se añaden luego de tener el patrón listo, tanto por contornos, como en los largos.         
+          p.mb-0 Los desahogos u holguras se dan en centímetros o pulgadas según el sistema métrico que se utilice en la empresa a trabajar. Dependen directamente del tejido y el desarrollo del modelo a realizar, se añaden luego de tener el patrón listo, tanto por contornos, como en los largos. 
+        p Se debe estudiar la tabla 1 que se muestra a continuación y analizar el mecanismo de aplicación de desahogos u holguras, añadidos al patrón de las prendas.
+
       .col-lg-6             
         figure.mb-5
           img(src='@/assets/tema1/otras/img-2.png') 
@@ -64,7 +66,7 @@
               p 4-6/XXS-XS/32-34 = 0,5 mm
               p 8-10/S-M/36-38 = 1 cm
               p 12-14/L-XL/40-42 = 1,5 cm
-              p 16-18/XXL/44-46 =2 cm
+              p 16-18/XXL/44-46 = 2 cm
               p 20-22/XXXL/48-50 = 2,5 cm
             td.pann 
               p 4-6/XXS-XS/34-34   = 1 cm
@@ -212,7 +214,7 @@
             td  14 
             td  16 
 
-    p.mb-5 Se presenta, entonces, el proceso que Optitex permite, en la asignación de holguras o desahogos a diferentes prendas y tipos de prendas. Es un ejemplo a través del cual, se podrá comprender y afianzar en el manejo y uso del software.
+    p.mb-5 Se presenta, entonces, el proceso que Optitex permite, en la asignación de holguras o desahogos a diferentes prendas y tipos de prendas. Es un ejemplo a través del cual, se podrá comprender y afianzar en el manejo y uso del <em>software</em>.
     .row.justify-content-around.align-items-center
       .col-lg-10.align-self-center.img-c
         .row.justify-content-around.align-items-center  

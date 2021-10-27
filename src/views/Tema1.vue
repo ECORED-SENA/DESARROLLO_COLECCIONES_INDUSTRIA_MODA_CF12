@@ -53,7 +53,7 @@
         br
         br
     #t_1_1.titulo-segundo
-      h2 1.1  Softwares especializados y procesos de patronaje
+      h2 1.1  <em>Softwares</em> especializados y procesos de patronaje
     .row.justify-content-around.align-items-center.mb-5
       .col-lg-10.align-self-center.img-c
         .row.justify-content-around.align-items-center
@@ -61,7 +61,7 @@
             figure
               img.img-450.img-c(src='@/assets/tema1/img-4.png')  
           .col-lg-6
-            p En la actualidad, la mayoría de las empresas, independientemente de su tamaño y capacidad de producción, utilizan softwares especializados para los procesos de patronaje y producción, con los cuales se optimizan tiempo, procesos, logística y espacios, ya que al tener archivos (patrones) almacenados en una computadora o en un servidor, se puede acceder a ellos con facilidad, sin que se deterioren (como ocurría con los patrones físicos en papel o cartulina) y sin que ocupen espacio en un almacén.
+            p En la actualidad, la mayoría de las empresas, independientemente de su tamaño y capacidad de producción, utilizan <em>softwares</em> especializados para los procesos de patronaje y producción, con los cuales se optimizan tiempo, procesos, logística y espacios, ya que al tener archivos (patrones) almacenados en una computadora o en un servidor, se puede acceder a ellos con facilidad, sin que se deterioren (como ocurría con los patrones físicos en papel o cartulina) y sin que ocupen espacio en un almacén.
         br
         .row
           .col-md-6.col-lg.mb-5.mb-lg-0
@@ -86,7 +86,7 @@
       .col-lg-10.align-self-center.img-c
         .row.justify-content-around.align-items-center.mb-5
           .col-lg-6
-            p.r-n.mb-3 #[strong Figura 1] Prototipo en software digital
+            p.r-n.mb-3 #[strong Figura 1] Prototipo en <em>software</em> digital
             figure.fnd-5.p-4
               img.img-450.img-c(src='@/assets/tema1/Figura 4.png')  
         .row.justify-content-around.align-items-center.mb-5
@@ -99,7 +99,7 @@
       h2 1.3 Herramientas de transformación y desarrollo de patrones
     .bloque-texto-a.color-acento-contenido.ld-a.p-4.p-md-5.mb-5 
       .row.m-0.justify-content-between
-        p.r-n.mb-3 #[strong Figura 2] Herramientas del software de patronaje
+        p.r-n.mb-3 #[strong Figura 2] Herramientas del <em>software</em> de patronaje
         .col-lg-6.mb-4.mb-lg-0
           figure.fnd-5-.p-4
             img.img-450.img-c(src='@/assets/tema1/Figura 5.png') 
@@ -108,7 +108,7 @@
           .row.align-self-center
             .col-lg-12.align-self-center|
               .bloque-texto-a__texto.p-4
-                p La creación de un modelo parte de un patrón base, al cual se le deben hacer las modificaciones correspondientes. En este componente formativo se trabajará, como ejemplo, con el software de patronaje Optitex como se muestra en la figura 2, ya que el SENA cuenta con sus licencias y, además, es muy reconocido y utilizado por muchas empresas del sector.
+                p La creación de un modelo parte de un patrón base, al cual se le deben hacer las modificaciones correspondientes. En este componente formativo se trabajará, como ejemplo, con el <em>software</em> de patronaje Optitex como se muestra en la figura 2, ya que el SENA cuenta con sus licencias y, además, es muy reconocido y utilizado por muchas empresas del sector.
 
 
 

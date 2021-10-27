@@ -10,7 +10,7 @@
       img(src='@/assets/tema1/otras/img-12.png', alt='Técnicas de interpretación de modelos')
 
     .cajon-b.fnd-3-.p-3
-      p.mb-5 Optitex es un software muy amplio, con múltiples opciones para que los patronistas exploren, avancen y desplieguen todo su potencial creativo en los procesos de patronaje. Dentro de las múltiples herramientas y opciones que ofrece, se halla el conjunto principal de herramientas para el desarrollo y transformación de patrones; todas ellas, al combinarlas entre sí y con las vistas hasta este punto, aumentan las posibilidades de operación, creación, patronaje, desarrollo de modelos, optimización de tiempos, espacios, materiales, entre otros beneficios.   
+      p.mb-5 Optitex es un <em>software</em> muy amplio, con múltiples opciones para que los patronistas exploren, avancen y desplieguen todo su potencial creativo en los procesos de patronaje. Dentro de las múltiples herramientas y opciones que ofrece, se halla el conjunto principal de herramientas para el desarrollo y transformación de patrones; todas ellas, al combinarlas entre sí y con las vistas hasta este punto, aumentan las posibilidades de operación, creación, patronaje, desarrollo de modelos, optimización de tiempos, espacios, materiales, entre otros beneficios.   
 
     .row.justify-content-around.align-items-center
       .col-lg-10.align-self-center.img-c
